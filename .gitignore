@@ -1,4 +1,10 @@
 *.DS_Store
 .vscode/
 .idea/
+<<<<<<< HEAD
 /Lab01/Data/*
+=======
+/Lab01/Data/*
+Week03/Thursday_recap.ipynb
+*.pkl
+>>>>>>> c0fd704c032efe021b5b4d70ea771c775e4dc88b
